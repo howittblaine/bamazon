@@ -1,6 +1,8 @@
 # bamazon
 Amazon-like storefront made with MySQL &amp; Node.js
 
+![Screen Shot 2019-07-02 at 10 37 19 PM](https://user-images.githubusercontent.com/47840542/60565977-63c3d600-9d1a-11e9-8dd4-9b44ccda0d4b.png)
+
 ### Challenge #1: Customer View (Minimum Requirement)
 
 1. Create a MySQL Database called `bamazon`.
