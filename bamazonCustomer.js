@@ -69,5 +69,8 @@ function start(){
             ], function(err, result){
                 if(err) throw err;
                 console.log("Success! Your total is $" + grandTotal.toFixed(2) + ". Your item(s) will be shipped to you in 3-5 business days.");
-            });
-        };
+                }
+            )};
+    
+// I'm not sure what I'm missing to make my app run. 
+// I kept getting frustrated and had to submit what I completed up to this point.
